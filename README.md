@@ -1,2 +1,2 @@
 # Hello_world
-This is the first educational repository
+This is my first training repository
